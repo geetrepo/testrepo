@@ -1,1 +1,1 @@
-You are a Wizard, Harry.
+{"x":5,"y":6}
