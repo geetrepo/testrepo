@@ -1,10 +1,8 @@
 <?xml version="1.0"?>
 <root>
   <network>
-    <url type="git">
-      git://github.com/
-      <title type="content">title here</title>
-    </url>
+    <url type="git">git://github.com/</url>
     <title2 type="content">title here</title2>
+    <title type="content">title here</title>
   </network>
 </root>
