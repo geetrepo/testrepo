@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+  <network>
+    <repo type="git">git://github.com/</repo>
+  </network>
+</root>
