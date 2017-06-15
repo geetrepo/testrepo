@@ -4,7 +4,7 @@
     <url type="git">
       git://github.com/
       <title type="content">title here</title>
-      <title2 type="content">title here</title2>
     </url>
+    <title2 type="content">title here</title2>
   </network>
 </root>
