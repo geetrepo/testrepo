@@ -3,10 +3,8 @@
   <network>
     <url type="git">
       git://github.com/
-      <title type="content">
-        title here
-        <title2 type="content">title here</title2>
-      </title>
+      <title type="content">title here</title>
+      <title2 type="content">title here</title2>
     </url>
   </network>
 </root>
